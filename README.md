@@ -8,3 +8,5 @@ Raw data folders are for price downloading and beta sorting
 Clean files are already sorted, cleaned and downloaded data plus data from Kenneth French Library.
 
 Follow in file instructions to modify the codes from 3-factor to 4-factor model testing or vice versa.
+
+Use the ticker files and price downloade python code to download UK, Germany and Euronext prices (Up to 100MB). Make sure to match the file names to codes.
