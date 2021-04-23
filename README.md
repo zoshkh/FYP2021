@@ -6,7 +6,7 @@ GRS_R file is for GRS test from Gibbons et al. (1989).
 
 Use the ticker files and price downloader python code to download UK, Germany and Euronext prices (Up to 100MB). The resulting data will be enormous as is contains 10 years of daily prices for more than 2600 stocks. Make sure to match the file names to codes.
 
-The files in are already sorted, cleaned and downloaded data plus data from Kenneth French Library.
+The files in the repository are already sorted, cleaned and downloaded data plus data from Kenneth French Library.
 
 Follow in file instructions to modify the codes from 3-factor to 4-factor model testing or vice versa.
 
